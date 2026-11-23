@@ -1,5 +1,16 @@
-class Solution:
-    def isPalindrome(self, s: str) -> bool:
-       cleaned ="".join(char.lower() for char in s if char.isalnum())
+class Solution(object):
+    def isPalindrome(self, s):
+        clean = ""
+        for letter in s:
+            if letter.isalnum():
+                clean = clean + letter.lower()
 
-       return cleaned == cleaned[::-1]
+        left = 0
+        right = len(clean)-1
+        while left<right:
+            if clean[left] != clean[right]:
+                return False
+
+            left +=1
+            right -=1
+        return True
