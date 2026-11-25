@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rushikeshgoud18/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rushikeshgoud18/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Rushikeshgoud18/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rushikeshgoud18/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Rushikeshgoud18/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rushikeshgoud18/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Rushikeshgoud18/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rushikeshgoud18/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
