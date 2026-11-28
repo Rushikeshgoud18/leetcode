@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rushikeshgoud18/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/Rushikeshgoud18/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rushikeshgoud18/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rushikeshgoud18/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rushikeshgoud18/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
